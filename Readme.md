@@ -1,10 +1,8 @@
-# Project Name
-
 **Softnio Job Task**
 
 ## Live Website
 
-[Click here to visit the live website](https://your-live-website-link.com)
+[Click here to visit the live website](https://softnio-task-javascript.netlify.app/)
 
 ## Technologies Used
 
